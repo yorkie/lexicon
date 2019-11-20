@@ -1,9 +1,9 @@
 <dl url="https://EcmaTC53.github.io/lexicon">ECMA TC-53 Terms
-  <dt><a href="https://www.maximintegrated.com/en/app-notes/index.mvp/id/1796">1-wire</a>
+  <dt><h4><a href="https://www.maximintegrated.com/en/app-notes/index.mvp/id/1796">1-wire</a></h4>
   <dd>a serial protocol using a single data line plus ground reference for communication.
   <dt><h4>Actuator</h4>
   <dd>A device that is reponsible for moving some part of a machine (eg a servo or motor).
-  <dt>Address
+  <dt><h4>Address</h4>
   <dd>An identifier for interfacing with a specific component, device, or board.
   <dt>Analog
   <dd>Systems with a continuosly variable signal.
