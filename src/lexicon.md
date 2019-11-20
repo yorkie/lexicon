@@ -76,7 +76,7 @@
   <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation">Encapsulation</a></h4>
   <dd>The packing of data and functions into one component and then controlling access to that component.
   <dt><h4>ES-Strict</h4>
-  <dd>See "Strict Mode"
+  <dd>See <a href="#strict-mode">"Strict Mode"</a>
   <dt><h4>Events</h4>
   <dd>An event which takes place on an object or element. Event targets can be configured to listen for certain events and call an Event Handler when the happen.
   <dt><h4>Expander</h4>
@@ -100,7 +100,8 @@
   <dt><h4><a href="https://www.w3.org/TR/generic-sensor/">Generic Sensor API</a></h4>
   <dd>A framework for exposing sensor data to the Open Web Platform in a consistent way. 
   <dt><h4>Harden</h4>
-  <dd>Tamper-proof an API surface (See SES).
+  <dd>Tamper-proof an API surface (
+    SES).
   <dt><h4>Hardware Abstraction Layer (HAL)</h4>
   <dd>A software layer between the OS or host and the hardware that provides a standard interface for interacting with hardware components.
   <dt><h4>Host</h4>
@@ -162,7 +163,8 @@
   <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism">Polymorphism</a></h4>
   <dd>The presentation of one interface for multiple data types.
   <dt><h4>Precompile</h4>
-  <dd>See "Partial Evaluation" and "Compile Time Function Execution" <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Promise">Promise</a>
+  <dd>See "Partial Evaluation" and "Compile Time Function Execution" 
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Promise">Promise</a></h4>
   <dd>An object that's returned by a function that has not yet completed its work. 
   <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Protocol">Protocol</a></h4>
   <dd>A system of rules that define how data is exchanged between systems.
@@ -216,7 +218,7 @@
   <dd>Software testing against individual units of source code.
   <dt><h4>Universal Asynchronous Receiver/Transmitter (UART)</h4>
   <dd>A device that controls the interface to attached serial devices.
-  <dd><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap">WeakMap</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap">WeakMap</a></h4>
   <dd>A collection of key/value pairs in which the keys are objects only and the values can be arbitrary values. If there are no other references to the key object it will be released to the the garbage collector.
   <dt><h4>W3C Sensor API</h4>
   <dd>See <a href="#generic-sensor-api">"Generic Sensor API"</a>
