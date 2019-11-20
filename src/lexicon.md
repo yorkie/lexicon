@@ -5,85 +5,85 @@
   <dd>A device that is reponsible for moving some part of a machine (eg a servo or motor).
   <dt><h4>Address</h4>
   <dd>An identifier for interfacing with a specific component, device, or board.
-  <dt>Analog
+  <dt><h4>Analog</h4>
   <dd>Systems with a continuosly variable signal.
-  <dt>Analog-to-Digital Converter
+  <dt><h4>Analog-to-Digital Converter</h4>
   <dd>Converts an analog signal to a digital value.
-  <dt>Application
+  <dt><h4>Application</h4>
   <dd>In the context of TC-53, an application is a software program designed to perform a specific function on a specific device. Applications may import libraries and providers in the form of modules.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/API">Application Programming Interface (API)</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/API">Application Programming Interface (API)</a></h4>
   <dd>A set of features and rules that exist inside a software program enabling interaction with it through software.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments">Arguments</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments">Arguments</a></h4>
   <dd>An Array-like object accessible inside functions that contains the values of the arguments passed to that function.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer">ArrayBuffer</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer">ArrayBuffer</a></h4>
   <dd>An object used to represent a generic, fixed-length raw binary data buffer.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Asynchronous">Asynchronous</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Asynchronous">Asynchronous</a></h4>
   <dd>A communication environment where each party receives and processes messages when possible rather than immediately.
-  <dt>Baud Rate
+  <dt><h4>Baud Rate</h4>
   <dd>Rate at which information in transferred. Measured in bytes per second.
-  <dt>Binding
+  <dt><h4>Binding</h4>
   <dd>The value of a function's this attribute, which can vary with how the function was called. See "This".
-  <dt>Blocking
+  <dt><h4>Blocking</h4>
   <dd>Code which runs outside of the current execution context but forces the context to wait.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Buffer">Buffer</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Buffer">Buffer</a></h4>
   <dd>A storage in physical memory used to temporarily store data while it is being transferred from one place to another.
-  <dt><a href="https://github.com/tc39/proposal-javascript-standard-library/">Built-in</a>
+  <dt><h4><a href="https://github.com/tc39/proposal-javascript-standard-library/">Built-in</a></h4>
   <dd>Built-ins are javascript modules that are bundled with the host.
-  <dt>Bus
+  <dt><h4>Bus</h4>
   <dd>A communications system that transfers data. A "Bus" includes hardware, software and the protocol.
-  <dt>Button
+  <dt><h4>Button</h4>
   <dd>A mechanism that completes an electrical circuit when pressed.
-  <dt>Byte
+  <dt><h4>Byte</h4>
   <dd>A unit of data consisting of 8 binary bits
-  <dt>Callback
+  <dt><h4>Callback</h4>
   <dd>A callback function is passed as an argument to another function and is exectued when some process is completed.
-  <dt>CANbus
+  <dt><h4>CANbus</h4>
   <dd>The Controller Area Network protocol enables communication between a network of devices. CAN is widley used in automobile electronics.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Class">Class</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Class">Class</a></h4>
   <dd>Class is a template definition of an object's properties and methods.
-  <dt>Clock Signal
+  <dt><h4>Clock Signal</h4>
   <dd>A signal that oscillates between high and low, that is used like a metronome to control circuit timing.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Closure">Closure</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Closure">Closure</a></h4>
   <dd>The binding which defines the scope of execution.
-  <dt>Compartments
+  <dt><h4>Compartments</h4>
   <dd>Compartments are used to store separate JavaScript heaps improving GC performance and adding security.
-  <dt>Compile Time Function Execution
+  <dt><h4>Compile Time Function Execution</h4>
   <dd>When the arguments to a pure function are known at compile time the compiler can create more highly optimized code vs compilation at run time.
-  <dt>Composable
+  <dt><h4>Composable</h4>
   <dd>Functions that can be combined with one or more other functions. Composable functions require one input argument and one output value.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Constructor">Constructor</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Constructor">Constructor</a></h4>
   <dd>The constructor initializes an object and can provide access to its private information. 
-  <dt>Current
+  <dt><h4>Current</h4>
   <dd>The rate of flow of an electric charge.
-  <dt>Data Accuracy
+  <dt><h4>Data Accuracy</h4>
   <dd>How close a data measurement is to it's theoretical expected output.
-  <dt>Data Provenance
+  <dt><h4>Data Provenance</h4>
   <dd>Knowing where data came from and how it arrived.
-  <dt>Data Timeliness
+  <dt><h4>Data Timeliness</h4>
   <dd>A measure of data timeliness. For example, how long did that "read" command take to execute? On embedded systems this could be a few ns. On a cloud based device it could be several seconds.
-  <dt>Data Trustworthiness
+  <dt><h4>Data Trustworthiness</h4>
   <dd>The combination of data provenance, timeliness an accuracy.
-  <dt>Dependency Injection
+  <dt><h4>Dependency Injection</h4>
   <dd>Creating and passing in an obect's dependencies rather that having that object create it's own dependencies.
-  <dt>Digital
+  <dt><h4>Digital</h4>
   <dd>Capable of having just two states, high and low.
-  <dt>Driver
+  <dt><h4>Driver</h4>
   <dd>Software or a circuit used to control another decice.
-  <dt>Duty cycle
+  <dt><h4>Duty cycle</h4>
   <dd>The percentage of time that a PWM signal is high or on.
-  <dt>Embedded Device
+  <dt><h4>Embedded Device</h4>
   <dd>A single purpose computing system wholly contained within another device or product.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation">Encapsulation</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation">Encapsulation</a></h4>
   <dd>The packing of data and functions into one component and then controlling access to that component.
-  <dt>ES-Strict
+  <dt><h4>ES-Strict</h4>
   <dd>See "Strict Mode"
-  <dt>Events
+  <dt><h4>Events</h4>
   <dd>An event which takes place on an object or element. Event targets can be configured to listen for certain events and call an Event Handler when the happen.
-  <dt>Expander
+  <dt><h4>Expander</h4>
   <dd>A device that provides addition inputs and/or outputs.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends">Extends</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends">Extends</a></h4>
   <dd>The extends keyword is used in class declarations or class expressions to create a class which is a child of another class.
-  <dt><a href="https://extensiblewebmanifesto.org/">Extensible Web Manifesto</a>
+  <dt><h4><a href="https://extensiblewebmanifesto.org/">Extensible Web Manifesto</a></h4>
   <dd>A set of principles that guides how web standards committees create and prioritize new features. These principles include:
     <ul>
       <li>Focus on adding new low-level capabilities to the web platform that are secure and efficient.</li>
@@ -91,33 +91,33 @@
       <li>Develop, describe and test new high-level features in JavaScript, and allow web developers to iterate on them before they become standardized. This creates a virtuous cycle between standards and developers.</li>
       <li>Prioritize efforts that follow these recommendations and deprioritize and refocus those which do not.</li>
     </ul>
-  <dt>External provider
+  <dt><h4>External provider</h4>
   <dd>A downloadable module that provides a surface API that matches the GPIO API specified by TC-53.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Function">Function</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Function">Function</a></h4>
   <dd>A code snippet that can be called by other code or by itself.
-  <dt>General Purpose Input/Output (GPIO)
+  <dt><h4>General Purpose Input/Output (GPIO)</h4>
   <dd>A digital signal pin that can be configured for input or output.
-  <dt><a href="https://www.w3.org/TR/generic-sensor/">Generic Sensor API</a>
+  <dt><h4><a href="https://www.w3.org/TR/generic-sensor/">Generic Sensor API</a></h4>
   <dd>A framework for exposing sensor data to the Open Web Platform in a consistent way. 
-  <dt>Harden
+  <dt><h4>Harden</h4>
   <dd>Tamper-proof an API surface (See SES).
-  <dt>Hardware Abstraction Layer (HAL)
+  <dt><h4>Hardware Abstraction Layer (HAL)</h4>
   <dd>A software layer between the OS or host and the hardware that provides a standard interface for interacting with hardware components.
-  <dt>Host
+  <dt><h4>Host</h4>
   <dd>Provides the Javascript environment including the javascript engine, built-ins, and other objects.
-  <dt><a href="https://www.i2c-bus.org/">I2C</a>
+  <dt><h4><a href="https://www.i2c-bus.org/">I2C</a></h4>
   <dd>A communication bus standard that requires two lines and supports multiple, addressable devices on the same connection.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Immutable">Immutable</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Immutable">Immutable</a></h4>
   <dd>An object whose content cannot be changed.
-  <dt>Impedance
+  <dt><h4>Impedance</h4>
   <dd>The resistance  of a electrical circuit to current.
-  <dt>Implementor
+  <dt><h4>Implementor</h4>
   <dd>An implementor creates a provider. An implementor could be the creator of a host, or a 3rd party library.
-  <dt>Import
+  <dt><h4>Import</h4>
   <dd>The import statement will bring in bindings provided by external modules.
-  <dt><a href="https://developer.mozilla.org/en-US/docs/Glossary/Instance">Instance</a>
+  <dt><h4><a href="https://developer.mozilla.org/en-US/docs/Glossary/Instance">Instance</a></h4>
   <dd>An object that has been created by a function constructor, class constructor, or function factory.
-  <dt>Internet of Things (IoT)
+  <dt><h4>Internet of Things (IoT)</h4>
   <dd>The universe of common devices with connectivity that allows them to send and receive data over the Internet.      
   <dt>Internal provider
   <dd>A built-in module that provides a surface API that matches the GPIO API specified by TC-53.
@@ -218,9 +218,9 @@
   <dd>A device that controls the interface to attached serial devices.
   <dd><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap">WeakMap</a>
   <dd>A collection of key/value pairs in which the keys are objects only and the values can be arbitrary values. If there are no other references to the key object it will be released to the the garbage collector.
-  <dt>W3C Sensor API
-  <dd>See "Generic Sensor API"
-  <dt><a href="https://iot.mozilla.org/wot/">Web Things</a>
+  <dt><h4>W3C Sensor API</h4>
+  <dd>See <a href="#generic-sensor-api">"Generic Sensor API"</a>
+  <dt><h4><a href="https://iot.mozilla.org/wot/">Web Things</a></h4>
   <dd>A common data model and API for the Web of Things
-  <dt>Web Worker
+  <dt><h4>Web Worker</h4>
   <dd>An object the can run code in a seperate thread or execution context.
